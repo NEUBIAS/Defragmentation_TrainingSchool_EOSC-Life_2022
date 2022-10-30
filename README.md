@@ -70,7 +70,8 @@ computing for distributed workflows at scale</a><br><b>Beth Cimini and Anna Klem
 
 #### Day 4:
 <ul>
-<li><a href="https://f1000research.com/slides/11-1171">"Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing”</a> <br><b>Robert Haase</b></p><p>“Introduction to Galaxy workflow environment” <br><b>Beatriz Serrano-Solano and Björn Grüning</b></p>
+<li><a href="https://f1000research.com/slides/11-1171">"Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing”</a> <br><b>Robert Haase</b>
+<li><p><a href="https://docs.google.com/presentation/d/1WG_4307XmKsGfWT3taxMvX2rZiG1k0SM1E7SAENJQkI/edit?usp=sharing">“Introduction to Galaxy workflow environment”</a> <br><b>Beatriz Serrano-Solano and Björn Grüning</b></p>
 </ul>
 
 #### Day 5:
